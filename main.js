@@ -1,5 +1,5 @@
 function(){
   var test = "aaaaaaa";
   
-  console.log(test);
+  console.log(test); 
 }
